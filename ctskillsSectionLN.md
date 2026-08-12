@@ -17,7 +17,7 @@
 -*The CT skill we can use in this Sub Problem is Decomposition. We can decompose the problem into little parts and optimize each part to make the whole thing faster.*
 
 ## **Pseudocode**
-**Sub Problem 3
+### Sub Problem 3
 
 START
 
