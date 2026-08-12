@@ -1,4 +1,4 @@
-# **Main problem** - Vending machine is unreliable and inconsistent.
+## **Main problem** - Vending machine is unreliable and inconsistent.
 
 **Sub Problem 1** - Sometimes the machine does not give the correct change.
 
