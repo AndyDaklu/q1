@@ -15,3 +15,22 @@
 **Sub Problem 4** - The machine is slow when multiple students use it in succession.
 
 -*The CT skill we can use in this Sub Problem is Decomposition. We can decompose the problem into little parts and optimize each part to make the whole thing faster.*
+
+## **Pseudocode**
+**Sub Problem 3
+
+START
+
+Display options(numbers)
+
+User selects a number
+
+Display: You selected Item [number]. Confirm? Y/N
+
+If answer = Y, give item.
+
+Else
+Return to Display options
+
+END
+
