@@ -1,5 +1,5 @@
 # Annex B: Smart Vending Machine
-Section: 9-Arayat
+Section: 9-Arayat\
 C# and Name: #12 - Leonardo Palma
 Date of checking: August 14, 2026
 
