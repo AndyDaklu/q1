@@ -1,6 +1,6 @@
 # Annex B: Smart Vending Machine
 Section: 9-Arayat\
-C# and Name: #12 - Leonardo Palma
+C# and Name: #12 - Leonardo Palma\
 Date of checking: August 14, 2026
 
 ## Step 1: Identify the Main Problem:
