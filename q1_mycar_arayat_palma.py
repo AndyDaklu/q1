@@ -24,7 +24,7 @@ while myCar.battery>0:
         myCar.go(distance)
     elif command == "charge":
         wH= int(input("How much?"))
-        myCar.charge(WH)
+        myCar.charge(wH)
     else:
         print("Invalid command")
                 
