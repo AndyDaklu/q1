@@ -3,7 +3,7 @@ class Hero:
   def __init__(self, name, hp):
     self.name = name
     self.hp = hp
-  def take_damage(self, amount):
+  def damage(self, amount):
     self.hp -= amount
 
 arthur = Hero("Arthur", 100)
