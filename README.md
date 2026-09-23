@@ -27,6 +27,8 @@
 
 [FA 5](https://github.com/AndyDaklu/q1/blob/main/q1_sg5_a1_arayat_palma.py)
 
+[FA 6](https://github.com/AndyDaklu/q1/blob/main/q1_sg6_a1.py)
+
 
 
 
