@@ -25,6 +25,8 @@
 
 [FA 4] In khub
 
+[FA 5](https://github.com/AndyDaklu/q1/blob/main/q1_sg5_a1_arayat_palma.py)
+
 
 
 
