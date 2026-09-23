@@ -1,14 +1,14 @@
 ## Read Me!
 
 
-** Class No.:** 10
+**Class No.:** 10
 
 
-** Name: ** Leonardo Gabriel C. Palma
+**Name:** Leonardo Gabriel C. Palma
 
 
 
-** Section: ** 9 - Arayat
+**Section:** 9 - Arayat
 
 
 
