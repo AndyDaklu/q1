@@ -11,7 +11,9 @@
 **Section:** 9 - Arayat
 
 
-[Car Sample Code](https://github.com/AndyDaklu/q1/blob/main/q1_mycar_arayat_palma.py)
+[Car Sample Code](https://github.com/AndyDaklu/q1/blob/main/car_sample_code.py)
+
+
 
 
 
