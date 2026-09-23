@@ -29,6 +29,7 @@
 
 [FA 6](https://github.com/AndyDaklu/q1/blob/main/q1_sg6_a1.py)
 
+[FA 7](https://github.com/AndyDaklu/q1/blob/main/q1_sg7_a1.py)
 
 
 
