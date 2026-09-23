@@ -15,6 +15,10 @@
 
 [Tusok Tusok Sample Code](https://github.com/AndyDaklu/q1/blob/main/tusok_tusok_samplecode.py)
 
+## FAs
+
+[FA 1](https://github.com/AndyDaklu/q1/blob/main/q1_sg1_a1.md)
+
 
 
 
